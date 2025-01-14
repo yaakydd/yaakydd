@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @yaakydd
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on more data science projects and research works
-- 📫 How to reach me. gmail : kyddgimd17@gmail.com
+- 👀 I’m interested in data science, machine learning and AI
+- 🌱 I’m currently learning data science, ML and AI
+- 💞️ I’m looking to collaborate on more data science, ML and AI projects and research works
+- 📫 How to reach me. gmail : kyddgimd17@gmail.com 
 - ⚡ Fun fact: Love mathematical concepts .
 
 <!---
