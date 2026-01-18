@@ -4,7 +4,7 @@
 - 🤖 Data Science,Machine Learning , Deep Learning,
 - 📊 Exploratory Data Analysis (EDA) , Data Visualization,
 - 🧠 Model Optimization and Explainable AI.
-- 🧰 Building tools and apps that make data accessible and meaningful is my prime focus.
+- 🧰 My prime focus is building AI tools and apps that make data accessible and meaningful.
 - 💞️ I’m looking to collaborate on more data science, ML projects and research works
 - 📫 How to reach me. gmail : kyddgimd17@gmail.com 
 - ⚡ Fun fact: Love mathematical concepts .
