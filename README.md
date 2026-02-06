@@ -6,7 +6,7 @@
 - 🧠 Model Optimization and Explainable AI.
 - 🧰 My prime focus is building AI tools and apps that make data accessible and meaningful.
 - 💞️ I’m looking to collaborate on more data science, ML projects and research works
-- 📫 How to reach me. gmail : kyddgimd17@gmail.com 
+- 📫 How to reach me. gmail : antwiyaa17@gmail.com 
 - ⚡ Fun fact: Love mathematical concepts .
 - "Data tells a story — I just help it speak clearly."
 
